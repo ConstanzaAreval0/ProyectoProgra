@@ -1,6 +1,10 @@
 # ProyectoProgra
-Proyecto Fundamentos de Programación ICI-116
+Proyecto Fundamentos de Programación ICI-116.
 Proyecto 4.
 
--Constanza Arévalo Fernández
--Gonzalo Benavente Vera
+Integrantes:
+-Constanza Arévalo Fernández.
+-Gonzalo Benavente Vera.
+
+Lenguaje Utilizado:
+Python.
