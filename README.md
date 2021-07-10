@@ -1,10 +1,11 @@
-# ProyectoProgra
-Proyecto Fundamentos de Programación ICI-116.
-Proyecto 4.
+Proyecto de Programación ICI116. Proyecto 4.
 
-Integrantes:
--Constanza Arévalo Fernández.
--Gonzalo Benavente Vera.
+Proyecto realizado por Constanza Arévalo Fernández y Gonzalo Benavente Veras.
 
-Lenguaje Utilizado:
-Python.
+Librerias utilizadas:
+
+-Pandas
+-Numpy
+-Matplotlib
+
+Se necesita conexion a internet para acceder al csv con los datos.
