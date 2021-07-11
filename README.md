@@ -5,7 +5,6 @@ Proyecto realizado por Constanza Arévalo Fernández y Gonzalo Benavente Veras.
 Librerias utilizadas:
 
 - Pandas
-- Numpy
 - Matplotlib
 
 Se necesita conexion a internet para acceder al csv con los datos.
