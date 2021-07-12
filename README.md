@@ -1,6 +1,6 @@
 # Proyecto de Programación ICI116. Proyecto 4.
 
-Proyecto realizado por Constanza Arévalo Fernández y Gonzalo Benavente Veras.
+Proyecto realizado por Constanza Arévalo Fernández (S1) y Gonzalo Benavente Veras (S1).
 
 Librerias utilizadas:
 
