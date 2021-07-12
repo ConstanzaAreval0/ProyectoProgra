@@ -1,5 +1,6 @@
 #Programación Proyecto 4.
-
+#21.272.518-8; Constanza Arévalo Fernández; Sección 1.
+#21.011.186-7; Gonzalo Benavente Vera; Sección 1.
 
 #Importar librerias a utilizar.
 import pandas as pd
