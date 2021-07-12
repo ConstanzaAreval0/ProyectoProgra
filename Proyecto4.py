@@ -24,7 +24,8 @@ def FiltradoEdadSexo(Opcion):
         else:
             print("Error!\nHa ingresado un carácter inválido.") 
             print("Seleccione una opción valida!")
-            Opcion = input()    
+            Opcion = input()  
+#Filtrado entre los sub-grupos de Edad o Sexo
 def FiltradoGrupo(Opcion):
     print("\nHa seleccionado:", FiltradoEdadSexo(Opcion))
     print("A continuación, seleccione una de las siguientes opciones.")
